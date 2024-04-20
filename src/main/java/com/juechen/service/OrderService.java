@@ -1,6 +1,6 @@
 package com.juechen.service;
 
-import com.spring.Component;
+import com.spring.annotation.Component;
 
 /**
  * @Author: Juechen

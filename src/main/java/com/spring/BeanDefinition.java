@@ -3,7 +3,7 @@ package com.spring;
 /**
  * @Author: Juechen
  * @Date: 2024/4/18
- * @Description: TODO
+ * @Description: 封装了Bean的所有信息
  * @Version: 1.0
  **/
 public class BeanDefinition {
